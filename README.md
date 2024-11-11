@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
+## Database
+|  |
+| ------- |
+| [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
