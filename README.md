@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/adityagrg/DSA/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
