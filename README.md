@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
+## Two Pointers
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
+## String
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->
