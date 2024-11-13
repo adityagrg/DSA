@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/adityagrg/DSA/tree/master/1625-group-sold-products-by-the-date) |
 ## Two Pointers
 |  |
 | ------- |
