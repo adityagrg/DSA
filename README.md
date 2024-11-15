@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
 ## String
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/adityagrg/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
 | [1944-truncate-sentence](https://github.com/adityagrg/DSA/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adityagrg/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
