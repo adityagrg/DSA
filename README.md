@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/adityagrg/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1944-truncate-sentence](https://github.com/adityagrg/DSA/tree/master/1944-truncate-sentence) |
 ## Depth-First Search
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adityagrg/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
