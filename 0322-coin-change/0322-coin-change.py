@@ -23,8 +23,6 @@ class Solution:
         return hm[amount]
 
     def coinChange(self, coins: List[int], amount: int) -> int:
-        coins.sort(reverse = True)
-
         hm = {}
         hm[0] = 0
         return self._util(coins, amount, hm)
