@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/adityagrg/DSA/tree/master/0086-partition-list) |
 | [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
 ## String
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/adityagrg/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
