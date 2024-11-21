@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/adityagrg/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
 ## String
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
