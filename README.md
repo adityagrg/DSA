@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/adityagrg/DSA/tree/master/0178-rank-scores) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/adityagrg/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0626-exchange-seats](https://github.com/adityagrg/DSA/tree/master/0626-exchange-seats) |
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/adityagrg/DSA/tree/master/1625-group-sold-products-by-the-date) |
