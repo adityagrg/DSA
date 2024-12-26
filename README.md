@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityagrg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityagrg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityagrg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/adityagrg/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityagrg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
