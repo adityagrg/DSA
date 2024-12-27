@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityagrg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/adityagrg/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityagrg/DSA/tree/master/0035-search-insert-position) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/adityagrg/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
