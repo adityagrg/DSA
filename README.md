@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/adityagrg/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityagrg/DSA/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/adityagrg/DSA/tree/master/0263-ugly-number) |
 ## String Matching
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityagrg/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adityagrg/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adityagrg/DSA/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
