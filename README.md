@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityagrg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityagrg/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/adityagrg/DSA/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityagrg/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/adityagrg/DSA/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 ## Linked List
 |  |
