@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityagrg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityagrg/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/adityagrg/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagrg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/adityagrg/DSA/tree/master/0118-pascals-triangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityagrg/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/adityagrg/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adityagrg/DSA/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/adityagrg/DSA/tree/master/0263-ugly-number) |
