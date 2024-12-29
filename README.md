@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/adityagrg/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/adityagrg/DSA/tree/master/0197-rising-temperature) |
 | [0626-exchange-seats](https://github.com/adityagrg/DSA/tree/master/0626-exchange-seats) |
+| [1301-reformat-department-table](https://github.com/adityagrg/DSA/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/adityagrg/DSA/tree/master/1625-group-sold-products-by-the-date) |
 ## Two Pointers
