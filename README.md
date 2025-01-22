@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/adityagrg/DSA/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/adityagrg/DSA/tree/master/1734-bank-account-summary-ii) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/adityagrg/DSA/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/adityagrg/DSA/tree/master/2110-employees-with-missing-information) |
 ## Two Pointers
 |  |
