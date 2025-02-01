@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/adityagrg/DSA/tree/master/0197-rising-temperature) |
 | [0607-sales-person](https://github.com/adityagrg/DSA/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/adityagrg/DSA/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/adityagrg/DSA/tree/master/0627-swap-salary) |
 | [1174-sales-analysis-iii](https://github.com/adityagrg/DSA/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/adityagrg/DSA/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/adityagrg/DSA/tree/master/1541-top-travellers) |
