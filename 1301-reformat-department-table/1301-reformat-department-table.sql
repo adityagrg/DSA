@@ -1,17 +1,16 @@
 # Write your MySQL query statement below
-SELECT 
-    id,
-    MAX(CASE WHEN month = "Jan" THEN revenue ELSE NULL END) AS Jan_Revenue,
-    MAX(CASE WHEN month = "Feb" THEN revenue ELSE NULL END) AS Feb_Revenue,
-    MAX(CASE WHEN month = "Mar" THEN revenue ELSE NULL END) AS Mar_Revenue,
-    MAX(CASE WHEN month = "Apr" THEN revenue ELSE NULL END) AS Apr_Revenue,
-    MAX(CASE WHEN month = "May" THEN revenue ELSE NULL END) AS May_Revenue,
-    MAX(CASE WHEN month = "Jun" THEN revenue ELSE NULL END) AS Jun_Revenue,
-    MAX(CASE WHEN month = "Jul" THEN revenue ELSE NULL END) AS Jul_Revenue,
-    MAX(CASE WHEN month = "Aug" THEN revenue ELSE NULL END) AS Aug_Revenue,
-    MAX(CASE WHEN month = "Sep" THEN revenue ELSE NULL END) AS Sep_Revenue,
-    MAX(CASE WHEN month = "Oct" THEN revenue ELSE NULL END) AS Oct_Revenue,
-    MAX(CASE WHEN month = "Nov" THEN revenue ELSE NULL END) AS Nov_Revenue,
-    MAX(CASE WHEN month = "Dec" THEN revenue ELSE NULL END) AS Dec_Revenue
-FROM Department
-GROUP BY id;
+select id,
+Max(case when month = 'Jan' then revenue end) as Jan_Revenue,
+max(case when month = 'Feb' then revenue end) as Feb_Revenue,
+Max(case when month = 'Mar' then revenue end) as Mar_Revenue,
+Max(case when month = 'Apr' then revenue end) as Apr_Revenue,
+Max(case when month = 'May' then revenue end) as May_Revenue,
+Max(case when month = 'Jun' then revenue end) as Jun_Revenue,
+Max(case when month = 'Jul' then revenue end) as Jul_Revenue,
+Max(case when month = 'Aug' then revenue end) as Aug_Revenue,
+Max(case when month = 'Sep' then revenue end) as Sep_Revenue,
+Max(case when month = 'Oct' then revenue end) as Oct_Revenue,
+Max(case when month = 'Nov' then revenue end) as Nov_Revenue,
+Max(case when month = 'Dec' then revenue end) as Dec_Revenue
+from Department
+group by id;
