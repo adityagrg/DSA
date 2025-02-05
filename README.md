@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/adityagrg/DSA/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/adityagrg/DSA/tree/master/0197-rising-temperature) |
 | [0607-sales-person](https://github.com/adityagrg/DSA/tree/master/0607-sales-person) |
+| [0608-tree-node](https://github.com/adityagrg/DSA/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/adityagrg/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/adityagrg/DSA/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityagrg/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
