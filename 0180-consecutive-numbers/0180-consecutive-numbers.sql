@@ -111,12 +111,17 @@
 -- WHERE num = lead1 AND num = lead2;
 
 
-with e as
-(select l1.id as id1, l1.num, l2.id as id2
+-- with e as
+-- (select l1.id as id1, l1.num, l2.id as id2
+-- from Logs l1
+-- join logs l2
+-- on l1.num = l2.num
+-- and l2.id - l1.id = 1)
+-- select distinct e1.num as ConsecutiveNums from e e1
+-- join e e2 on e1.num = e2.num
+-- and e2.id2 - e1.id1 = 2
+
+select distinct l1.num as ConsecutiveNums
 from Logs l1
-join logs l2
-on l1.num = l2.num
-and l2.id - l1.id = 1)
-select distinct e1.num as ConsecutiveNums from e e1
-join e e2 on e1.num = e2.num
-and e2.id2 - e1.id1 = 2
+join logs l2 on l1.id = l2.id - 1 and l1.num = l2.num
+join logs l3 on l1.id = l3.id - 2 and l1.num = l3.num
