@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/adityagrg/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/adityagrg/DSA/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/adityagrg/DSA/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/adityagrg/DSA/tree/master/0262-trips-and-users) |
 | [0607-sales-person](https://github.com/adityagrg/DSA/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/adityagrg/DSA/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/adityagrg/DSA/tree/master/0626-exchange-seats) |
