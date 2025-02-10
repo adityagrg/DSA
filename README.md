@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagrg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/adityagrg/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adityagrg/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagrg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityagrg/DSA/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagrg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/adityagrg/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagrg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagrg/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagrg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
