@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityagrg/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/adityagrg/DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/adityagrg/DSA/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/adityagrg/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/adityagrg/DSA/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/adityagrg/DSA/tree/master/0953-reverse-only-letters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityagrg/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/adityagrg/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityagrg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/adityagrg/DSA/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adityagrg/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Tree
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/adityagrg/DSA/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
