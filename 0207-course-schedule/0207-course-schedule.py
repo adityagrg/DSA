@@ -29,10 +29,8 @@ class Solution:
         in_degree = [0] * numCourses
         
         for i in range(numCourses):
-            print("i = " + str(i))
             if adj[i] is not None:
                 for j in adj[i]:
-                    print("j = " + str(j))
                     in_degree[j] += 1
         
         q = deque()
@@ -40,8 +38,6 @@ class Solution:
         for i in range(numCourses):
             if in_degree[i] == 0:
                 q.append(i)
-        
-        print("len of q = " + str(len(q)))
 
         ans = []
         while q:
@@ -53,12 +49,6 @@ class Solution:
                     if in_degree[neighour] == 0:
                         q.append(neighour)
         
-        # for element in ans:
-        #     print(element)
-
-        print("len of ans = " + str(len(ans)))
-        print("num of courses = " + str(numCourses))
-
         if len(ans) == numCourses:
             return True
         else:
