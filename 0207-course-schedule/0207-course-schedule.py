@@ -1,23 +1,4 @@
 class Solution:
-    def util(self, adj, elementToBeChecked, q):
-        visited = set()
-        visited.add(elementToBeChecked)
-        while q:
-            current = q.popleft()
-            print("current = " + str(current))
-            if current in adj:
-                for element in adj[current]:
-                    if element == elementToBeChecked:
-                        return False
-                    
-                    visited.add(element)
-                    
-                    if element not in visited:
-                        q.append(element)
-        
-        return True
-
-
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         adj = [None] * numCourses
         for prerequisite in prerequisites:
