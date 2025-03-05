@@ -5,19 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    ans = 0
-    def util(self, root):
+    def util(self, root, ans):
         if root is None:
             return 0
 
-        left = self.util(root.left)
-        right = self.util(root.right)
+        left = self.util(root.left, ans)
+        right = self.util(root.right, ans)
 
-        if (left + right) > self.ans:
-            self.ans = left + right
+        if (left + right) > ans[0]:
+            ans[0] = left + right
 
         return max(left, right) + 1
 
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.util(root)
-        return self.ans
+        ans = [0]
+        self.util(root, ans)
+        return ans[0]
