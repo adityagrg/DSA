@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityagrg/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityagrg/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/adityagrg/DSA/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adityagrg/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/adityagrg/DSA/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -228,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityagrg/DSA/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/adityagrg/DSA/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityagrg/DSA/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/adityagrg/DSA/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
