@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityagrg/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagrg/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/adityagrg/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/adityagrg/DSA/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityagrg/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adityagrg/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityagrg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/adityagrg/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adityagrg/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Tree
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityagrg/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adityagrg/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/adityagrg/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityagrg/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagrg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityagrg/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -246,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityagrg/DSA/tree/master/0011-container-with-most-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagrg/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
